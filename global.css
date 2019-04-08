@@ -24,9 +24,15 @@ header {
     border-radius: 7px;
     padding: 15px;
     margin: 10px;
+    height: 100%;
 }
 .friend p {
     color: orangered;
+    margin-top: 1em;
+}
+.friend span {
+    font-size: .85rem;
+    color: black;
 }
 @media (min-width: 420px) {
     .friends .col {
