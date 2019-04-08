@@ -42,10 +42,10 @@ let myFriends = [
 // 3.) console.log the array in reverse
 // Your code here
 
-// 4.) Change the first object's firstName value to Timothy
+// 4.) Change the first object's "firstName" value to Timothy
 // your code here
 
-// 5.) give the last friend in the array a new prop, "nickName" with the value of "Danny". 
+// 5.) Give the last friend in the array a new property, "nickName" with the value of "Danny". 
 // your code here
 
 myFriends.forEach((friends) => {
