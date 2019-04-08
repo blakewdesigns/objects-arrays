@@ -31,6 +31,8 @@ let myFriends = [
     }  
   ]
 
+// These steps should be executed without directly modifying the array above
+
 // 1.) Add a friend to the myFriends array
 // Your code here
 
@@ -40,7 +42,7 @@ let myFriends = [
 // 3.) console.log the array in reverse
 // Your code here
 
-// 4.) without modifying the array from about, change the first object's firstName value to Timothy
+// 4.) Change the first object's firstName value to Timothy
 // your code here
 
 // 5.) give the last friend in the array a new prop, "nickName" with the value of "Danny". 
