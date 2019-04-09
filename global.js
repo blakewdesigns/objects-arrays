@@ -49,7 +49,7 @@ let myFriends = [
 // your code here
 
 myFriends.forEach((friends) => {
-    let friend = `
+    let friend = /*html*/ `
         <div class="col">
             <div class="friend">
                 <h3>${friends.firstName} ${friends.lastName}</h3>
