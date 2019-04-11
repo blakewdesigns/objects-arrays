@@ -48,6 +48,8 @@ let myFriends = [
 // 5.) Give the last friend in the array a new property, "nickName" with the value of "Danny". 
 // your code here
 
+// DO NOT edit past this line
+//___________________________
 myFriends.forEach((friends) => {
     let friend = /*html*/ `
         <div class="col">
